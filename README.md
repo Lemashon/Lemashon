@@ -9,8 +9,8 @@ I'm an enthusiastic software engineer under ALX Africa program. I have experienc
 *   🌍  I'm based in Nairobi, Kenya
 *   🖥️  See my portfolio at [My Portfolio](http://lemashon.netlify.app)
 *   ✉️  You can contact me at [lemakipeno@gmail.com](mailto:lemakipeno@gmail.com)
-*   🧠  I'm currently learning AWS
-*   🤝  I'm open to collaborating on Open source projects
+*   🧠  I'm currently learning Machine Learning, Artificial Intelligence and Cloud Computing in AWS.
+*   🤝  I'm open to collaborating on Open source projects, ML,AI etc.
 *   ⚡  I love watching documentaries. 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
