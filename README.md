@@ -1,4 +1,4 @@
-Hello There! Nice to Meet You.!
+Hello There! Nice to Meet You! Few things about myself.
 =======================================================================================================================================
 
 Software engineer | Machine Learning Enthusiast 
