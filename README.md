@@ -4,7 +4,7 @@ Hello There! Nice to Meet You! Few things about myself:
 Software engineer | Machine Learning Enthusiast 
 -----------------
 
-I'm an enthusiastic software engineer with over 3 years of experience. I have experience in Python, C and C++ programming languages with specialization in back end projects. In my leisure time, I also create front end projects using HTML, CSS, JavaScript & React.Js.
+I'm an enthusiastic software engineer with over 3 years of experience. I have experience in Python,Django, Javascript, MongoDB, MySQL,Node.js, Express,js, React,C and C++. I'm keen on back-end project. In my leisure time, I aam hard at work learning Machine Learning techniques, Artificial intelligence and cloud computing.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🖥️  See my portfolio at [My Portfolio](http://lemashon.netlify.app)
