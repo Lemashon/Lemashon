@@ -1,4 +1,4 @@
-Hi ! My name is Kipeno Lemayian
+Hello There! Nice to Meet You.!
 =======================================================================================================================================
 
 Software engineer | Machine Learning Enthusiast 
