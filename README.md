@@ -1,7 +1,7 @@
-Hi 👋 My name is Kipeno Lemayian
+Hello There! Nice to Meet You! Few things about myself:
 ================================
 
-Hello There! Nice to Meet You! Few things about myself:
+Software engineer | Machine Learning Engineer
 -------------------------------------------------------
 
 I'm an enthusiastic software engineer with over 3 years of experience. I have experience in building web applications and solutions using Python, Django, Javascript, MySQL, PostgreSQL MongoDB, Node.js, Express.js, React.js,C and C++. I'm also experienced in Docker, Kubernetes, RESTFul API's and cloud deployment techniques such as heroku and netlify. I'm keen on back-end projects, software automations projects and ML models. In my leisure time, I am hard at work learning Machine Learning techniques, Artificial intelligence and cloud computing. I'm work in progress.
@@ -33,12 +33,12 @@ I'm an enthusiastic software engineer with over 3 years of experience. I have ex
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
-                      <a href="https://www.github.com/Lemashon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Lemashon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="http://www.instagram.com/_lema.shon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
