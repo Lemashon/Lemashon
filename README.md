@@ -4,7 +4,7 @@ Hello There! Nice to Meet You! Few things about myself:
 Software engineer | Machine Learning Engineer
 -------------------------------------------------------
 
-I'm an enthusiastic software engineer with over 5 years of experience. I have experience in building web applications and solutions using Python, Django, Javascript, MySQL, PostgreSQL MongoDB, Node.js, Express.js, React.js,C and C++. I'm also experienced in Docker, Kubernetes, RESTFul API's and cloud deployment techniques such as heroku and netlify. I'm keen on back-end projects, software automations projects and ML models. In my leisure time, I am hard at work learning Machine Learning techniques, Artificial intelligence and cloud computing. I'm work in progress.
+I'm an enthusiastic and experienced software engineer. I have experience in building web applications and solutions using Python, Django, Javascript, MySQL, PostgreSQL MongoDB, Node.js, Express.js, React.js,C and C++. I'm also experienced in Docker, Kubernetes, RESTFul API's and cloud deployment techniques such as heroku and netlify. I'm keen on back-end projects, software automations projects and ML models. In my leisure time, I am hard at work learning Machine Learning techniques, Artificial intelligence and cloud computing. I'm work in progress.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://lemashon.netlify.app)
